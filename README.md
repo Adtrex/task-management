@@ -36,6 +36,11 @@ npm install
 npm run dev
 ```
 
+#### Clear Cache
+
+```bash
+php artisan optimize
+```
 #### All set.. Navigate to site url to browse demo. 
 
 
