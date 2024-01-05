@@ -41,6 +41,13 @@ npm run dev
 ```bash
 php artisan optimize
 ```
+
+#### Start Server
+
+```bash
+php artisan serve
+```
+
 #### All set.. Navigate to site url to browse demo. 
 
 
